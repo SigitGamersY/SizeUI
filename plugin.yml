@@ -1,0 +1,11 @@
+name: SizeUI-master
+author: SigitGamersY
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+main: SizeUI/Main
+
+commands:
+ size:
+  usage: /size
+  aliases: [sui]
+  description: "§o§6Select Change your Size"
